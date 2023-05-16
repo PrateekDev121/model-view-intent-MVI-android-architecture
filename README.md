@@ -1,7 +1,7 @@
 Android MVI (Model-View-Intent) Architecture Example with Jetpack Compose
 
 
-This repository contains an example Android application that demonstrates the implementation of the Model-View-Intent (MVI) architecture using Jetpack Compose. MVI is a variation of the Model-View-Controller (MVC) pattern, designed to provide a clear separation of concerns and improve testability and maintainability of Android applications. Jetpack Compose is the modern UI toolkit for building native Android apps, which simplifies the UI development process.
+This repository contains an example Android application that demonstrates the implementation of the Model-View-Intent (MVI) architecture using Jetpack Compose. MVI designed to provide a clear separation of concerns and improve testability and maintainability of Android applications. Jetpack Compose is the modern UI toolkit for building native Android apps, which simplifies the UI development process.
 
 Overview
 The example application showcases how to build a simple task management app using the MVI architecture with Jetpack Compose. It consists of three main components:
